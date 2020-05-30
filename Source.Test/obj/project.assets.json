@@ -5907,11 +5907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source.Test\\Source.Test.csproj",
+      "projectUniqueName": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source.Test\\Source.Test.csproj",
       "projectName": "Source.Test",
-      "projectPath": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source.Test\\Source.Test.csproj",
+      "projectPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source.Test\\Source.Test.csproj",
       "packagesPath": "C:\\Users\\ThalitaMariano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source.Test\\obj\\",
+      "outputPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5932,8 +5932,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\Source.csproj": {
-              "projectPath": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\Source.csproj"
+            "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\Source.csproj": {
+              "projectPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\Source.csproj"
             }
           }
         }

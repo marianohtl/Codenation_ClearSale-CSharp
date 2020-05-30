@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\Source.csproj": {}
+    "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\Source.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\Source.csproj": {
+    "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\Source.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\Source.csproj",
+        "projectUniqueName": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\Source.csproj",
         "projectName": "Source",
-        "projectPath": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\Source.csproj",
+        "projectPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\Source.csproj",
         "packagesPath": "C:\\Users\\ThalitaMariano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThalitaMariano\\codenation\\csharp-2\\Source\\obj\\",
+        "outputPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\csharp-3\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,38 +1,22 @@
-# Criptografia de Júlio César
+# Os dez maiores estados brasileiros em extensão territorial
 
-Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondido”, e gráphein, “escrita”) é o estudo e prática de princípios e técnicas para comunicação segura na presença de terceiros, chamados “adversários”. Mais geralmente, a criptografia refere-se à construção e análise de protocolos que impedem terceiros, ou o público, de lerem mensagens privadas. Muitos aspectos em segurança da informação, como confidencialidade, integridade de dados, autenticação e não-repúdio são centrais à criptografia moderna. Aplicações de criptografia incluem comércio eletrônico, cartões de pagamento baseados em chip, moedas digitais, senhas de computadores e comunicações militares. 
-Das criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar-se com os seus generais. Essa criptografia se baseava na substituição das letra do alfabeto avançando três casas. 
+Utilizando C# e testes unitários você deverá determinar os dez maiores estados brasileiros em extensão territorial.
+Para isso deve implementar o método `Top10StatesByArea` da classe `Country` de forma que ele retorne um `array` com os 10 estados mais extensos em território.
 
-Para exemplificar essa técnica, vamos usar um pangrama, que é uma frase que utiliza todas as letras de um certo alfabeto. 
+**Regras**
+* Um estado é representado por uma instância da classe `State` que já está implementada.
+* Um estado é identificado pela sua sigla (`Acronym`).
 
-```
-Normal:  the quick brown fox jumps over the lazy dog
-Cifrado: wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj
-```
-
-O objetivo desse desafio é implementar os métodos da classe `CesarCypher` para a criptografar e descriptografar mensagens usando a Cifra de César:
-
-Regras:
-
-* As mensagens serão convertidas para minúsculas antes da criptografia e a descriptografia irá resultar em uma mensagem apenas com letras minúsculas.
-* Os números e espaços não serão cifrados.
-* Caso seja fornecido uma mensagem vazia para cifrar deve retornar um valor vazio
-* Caso seja fornecida um valor para cifrar ou decifrar que contenha caracteres especiais ou letras acentuadas como ç, á, é, etc. devem disparar uma exceção do tipo `ArgumentOutOfRangeException`
-* Caso seja fornecido um valor nulo para cifrar ou decifrar deve disparar uma exceção do tipo `ArgumentNullException`
-
-A classe deve implementar as interfaces `ICrypt` e `IDecrypt` da seguinte forma:
-
-- O método `Crypt` da interface `ICrypt` recebe uma `string` e retorna outra `string` com a mensagem cifrada.
-- O método `Decrypt` da interface `IDecrypt` recebe uma `string` com a mensagem cifrada e retorna outra `string` com a mensagem decifrada.
-
+Para saber as áreas de cada estado do Brasil pode consultar [essa página do Wikipedia](https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_%C3%A1rea)
 
 ## Tópicos
 
 Neste desafio você aprenderá:
 
 * Variáveis e métodos
-* Manipular cadeias de caracteres
-* Controle de fluxo
+* Classes e objetos
+* Vetores
+* Testes unitários
 
 ## Requisitos
 ​
