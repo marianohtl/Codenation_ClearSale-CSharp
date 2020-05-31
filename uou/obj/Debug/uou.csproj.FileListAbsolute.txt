@@ -1,0 +1,6 @@
+C:\Users\ThalitaMariano\source\repos\uou\bin\Debug\uou.exe.config
+C:\Users\ThalitaMariano\source\repos\uou\bin\Debug\uou.exe
+C:\Users\ThalitaMariano\source\repos\uou\bin\Debug\uou.pdb
+C:\Users\ThalitaMariano\source\repos\uou\obj\Debug\uou.csprojAssemblyReference.cache
+C:\Users\ThalitaMariano\source\repos\uou\obj\Debug\uou.exe
+C:\Users\ThalitaMariano\source\repos\uou\obj\Debug\uou.pdb

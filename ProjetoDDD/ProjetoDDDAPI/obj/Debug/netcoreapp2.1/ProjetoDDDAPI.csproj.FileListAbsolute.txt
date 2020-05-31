@@ -1,0 +1,16 @@
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\ProjetoDDDAPI.deps.json
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\ProjetoDDDAPI.runtimeconfig.json
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\ProjetoDDDAPI.runtimeconfig.dev.json
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\ProjetoDDDAPI.dll
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\bin\Debug\netcoreapp2.1\ProjetoDDDAPI.pdb
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.csprojAssemblyReference.cache
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.RazorAssemblyInfo.cache
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.RazorAssemblyInfo.cs
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.AssemblyInfoInputs.cache
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.AssemblyInfo.cs
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.dll
+C:\Users\ThalitaMariano\source\repos\ProjetoDDD\ProjetoDDDAPI\obj\Debug\netcoreapp2.1\ProjetoDDDAPI.pdb

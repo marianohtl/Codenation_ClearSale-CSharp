@@ -1,0 +1,11 @@
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\bin\Debug\netcoreapp3.1\FatoriaConsole.exe
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\bin\Debug\netcoreapp3.1\FatoriaConsole.deps.json
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\bin\Debug\netcoreapp3.1\FatoriaConsole.runtimeconfig.json
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\bin\Debug\netcoreapp3.1\FatoriaConsole.runtimeconfig.dev.json
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\bin\Debug\netcoreapp3.1\FatoriaConsole.dll
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\bin\Debug\netcoreapp3.1\FatoriaConsole.pdb
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\obj\Debug\netcoreapp3.1\FatoriaConsole.csprojAssemblyReference.cache
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\obj\Debug\netcoreapp3.1\FatoriaConsole.AssemblyInfoInputs.cache
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\obj\Debug\netcoreapp3.1\FatoriaConsole.AssemblyInfo.cs
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\obj\Debug\netcoreapp3.1\FatoriaConsole.dll
+C:\Users\ThalitaMariano\source\repos\Fatorial\FatoriaConsole\obj\Debug\netcoreapp3.1\FatoriaConsole.pdb

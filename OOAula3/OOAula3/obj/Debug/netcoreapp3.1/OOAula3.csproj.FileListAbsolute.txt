@@ -1,0 +1,11 @@
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\bin\Debug\netcoreapp3.1\OOAula3.exe
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\bin\Debug\netcoreapp3.1\OOAula3.deps.json
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\bin\Debug\netcoreapp3.1\OOAula3.runtimeconfig.json
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\bin\Debug\netcoreapp3.1\OOAula3.runtimeconfig.dev.json
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\bin\Debug\netcoreapp3.1\OOAula3.dll
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\bin\Debug\netcoreapp3.1\OOAula3.pdb
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\obj\Debug\netcoreapp3.1\OOAula3.csprojAssemblyReference.cache
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\obj\Debug\netcoreapp3.1\OOAula3.AssemblyInfoInputs.cache
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\obj\Debug\netcoreapp3.1\OOAula3.AssemblyInfo.cs
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\obj\Debug\netcoreapp3.1\OOAula3.dll
+C:\Users\ThalitaMariano\source\repos\OOAula3\OOAula3\obj\Debug\netcoreapp3.1\OOAula3.pdb
