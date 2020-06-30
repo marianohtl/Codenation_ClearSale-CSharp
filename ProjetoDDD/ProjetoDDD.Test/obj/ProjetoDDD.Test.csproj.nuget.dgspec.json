@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj": {}
+    "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj": {
+    "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj",
+        "projectUniqueName": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj",
         "projectName": "ProjetoDDD.Test",
-        "projectPath": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj",
+        "projectPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Test\\ProjetoDDD.Test.csproj",
         "packagesPath": "C:\\Users\\ThalitaMariano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Test\\obj\\",
+        "outputPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

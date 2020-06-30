@@ -1,0 +1,7 @@
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\bin\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.deps.json
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\bin\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.dll
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\bin\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.pdb
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\obj\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.AssemblyInfoInputs.cache
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\obj\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.AssemblyInfo.cs
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\obj\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.dll
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Infra.CrossCuting\obj\Debug\netcoreapp3.1\ProjetoDDD.Infra.CrossCuting.pdb

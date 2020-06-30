@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Dominio\\ProjetoDDD.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Dominio\\ProjetoDDD.Dominio.csproj",
       "projectName": "ProjetoDDD.Dominio",
-      "projectPath": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Dominio\\ProjetoDDD.Dominio.csproj",
+      "projectPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Dominio\\ProjetoDDD.Dominio.csproj",
       "packagesPath": "C:\\Users\\ThalitaMariano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

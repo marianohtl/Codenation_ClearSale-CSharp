@@ -5,21 +5,21 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Apresentacao", "1 - Apresentacao", "{E4EE99B3-613A-4A9D-B9D8-7D10816EBED4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{0A2093A6-1EC8-498C-99DE-3285D1470A57}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{0A2093A6-1EC8-498C-99DE-3285D1470A57}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Comum", "2 - Comum", "{E835B38A-ADF9-462E-BA53-274DC3426650}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Comum", "3 - Comum", "{E835B38A-ADF9-462E-BA53-274DC3426650}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Testes", "4 - Testes", "{00DA3819-9E4D-48E9-BEC6-3E20B2CA3D72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoDDDAPI", "ProjetoDDDAPI\ProjetoDDDAPI.csproj", "{9F95BA1D-9764-40A9-B690-5EC83582AEC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoDDDAPI", "ProjetoDDDAPI\ProjetoDDDAPI.csproj", "{9F95BA1D-9764-40A9-B690-5EC83582AEC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoDDD.Dominio", "ProjetoDDD.Dominio\ProjetoDDD.Dominio.csproj", "{04626CC8-5824-425F-BFED-F099107CE25C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoDDD.Dominio", "ProjetoDDD.Dominio\ProjetoDDD.Dominio.csproj", "{04626CC8-5824-425F-BFED-F099107CE25C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoDDDInfra.Data", "ProjetoDDDInfra.Data\ProjetoDDDInfra.Data.csproj", "{1CFFDF26-03E6-4C22-9975-932664435B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoDDDInfra.Data", "ProjetoDDDInfra.Data\ProjetoDDDInfra.Data.csproj", "{1CFFDF26-03E6-4C22-9975-932664435B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoDDD.Infra.CrossCuting", "ProjetoDDD.Infra.CrossCuting\ProjetoDDD.Infra.CrossCuting.csproj", "{6CC60CCB-79B7-4175-8CB0-B5D432846C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoDDD.Infra.CrossCuting", "ProjetoDDD.Infra.CrossCuting\ProjetoDDD.Infra.CrossCuting.csproj", "{6CC60CCB-79B7-4175-8CB0-B5D432846C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoDDD.Test", "ProjetoDDD.Test\ProjetoDDD.Test.csproj", "{2E9787B2-29EF-462A-8B39-CAE8BC52674B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoDDD.Test", "ProjetoDDD.Test\ProjetoDDD.Test.csproj", "{2E9787B2-29EF-462A-8B39-CAE8BC52674B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

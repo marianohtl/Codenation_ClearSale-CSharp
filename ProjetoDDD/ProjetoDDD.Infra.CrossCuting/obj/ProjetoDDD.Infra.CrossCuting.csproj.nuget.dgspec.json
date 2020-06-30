@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj": {}
+    "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj": {
+    "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj",
+        "projectUniqueName": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj",
         "projectName": "ProjetoDDD.Infra.CrossCuting",
-        "projectPath": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj",
+        "projectPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\ProjetoDDD.Infra.CrossCuting.csproj",
         "packagesPath": "C:\\Users\\ThalitaMariano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThalitaMariano\\source\\repos\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\obj\\",
+        "outputPath": "C:\\Users\\ThalitaMariano\\Documents\\Wp-Codenation\\Codenation_ClearSale-CSharp\\ProjetoDDD\\ProjetoDDD.Infra.CrossCuting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
