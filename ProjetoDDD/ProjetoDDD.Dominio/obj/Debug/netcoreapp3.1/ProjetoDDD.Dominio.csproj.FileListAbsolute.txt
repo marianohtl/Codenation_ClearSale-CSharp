@@ -1,9 +1,0 @@
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\bin\Debug\netcoreapp3.1\ProjetoDDD.Dominio.deps.json
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\bin\Debug\netcoreapp3.1\ProjetoDDD.Dominio.dll
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\bin\Debug\netcoreapp3.1\ProjetoDDD.Dominio.pdb
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.AssemblyInfoInputs.cache
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.AssemblyInfo.cs
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.dll
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.pdb
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.csprojAssemblyReference.cache
-C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.csproj.CoreCompileInputs.cache
