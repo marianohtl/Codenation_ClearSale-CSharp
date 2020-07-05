@@ -6,4 +6,9 @@
   <PropertyGroup>
     <ActiveDebugProfile>ProjetoDDDInfra.Data</ActiveDebugProfile>
   </PropertyGroup>
+  <ItemGroup>
+    <Page Update="Repository\UsuarioRepository.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
 </Project>

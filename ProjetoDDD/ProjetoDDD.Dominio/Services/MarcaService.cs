@@ -10,7 +10,7 @@ namespace ProjetoDDD.Dominio.Services
     public class MarcaService : IMarcaService
     {
 
-        public readonly IMarcaRepository _marcaRepository;
+        private readonly IMarcaRepository _marcaRepository;
 
         public MarcaService(IMarcaRepository marcaRepository)
         {
@@ -37,6 +37,7 @@ namespace ProjetoDDD.Dominio.Services
             }
 
             catch{
+
                 return null;
                 
             }
@@ -79,6 +80,6 @@ namespace ProjetoDDD.Dominio.Services
             }
 
         }
-
     }
+
 }

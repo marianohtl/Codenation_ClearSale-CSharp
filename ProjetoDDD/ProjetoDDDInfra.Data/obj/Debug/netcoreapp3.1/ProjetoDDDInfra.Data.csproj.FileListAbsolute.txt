@@ -11,3 +11,5 @@ C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\Proj
 C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDDInfra.Data\obj\Debug\netcoreapp3.1\ProjetoDDDInfra.Data.csproj.CopyComplete
 C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDDInfra.Data\obj\Debug\netcoreapp3.1\ProjetoDDDInfra.Data.dll
 C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDDInfra.Data\obj\Debug\netcoreapp3.1\ProjetoDDDInfra.Data.pdb
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDDInfra.Data\obj\Debug\netcoreapp3.1\ProjetoDDDInfra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDDInfra.Data\obj\Debug\netcoreapp3.1\ProjetoDDDInfra.Data.genruntimeconfig.cache

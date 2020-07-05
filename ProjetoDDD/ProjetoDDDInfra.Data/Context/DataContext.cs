@@ -8,6 +8,7 @@ namespace ProjetoDDDInfra.Data.Context
 {
     public sealed class DataContext : DbContext , IDisposable
     {
+        public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Marca> Marcas { get; set; }
         public DbSet<Modelo> Modelos { get; set; }
         public DbSet<Versao> Versoes { get; set; }

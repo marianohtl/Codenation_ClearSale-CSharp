@@ -6,3 +6,4 @@ C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\Proj
 C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.dll
 C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.pdb
 C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.csprojAssemblyReference.cache
+C:\Users\ThalitaMariano\Documents\Wp-Codenation\Codenation_ClearSale-CSharp\ProjetoDDD\ProjetoDDD.Dominio\obj\Debug\netcoreapp3.1\ProjetoDDD.Dominio.csproj.CoreCompileInputs.cache
